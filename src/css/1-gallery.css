@@ -12,6 +12,7 @@ ul {
 }
 .gallery-image {
     display: block;
+    width: 100%;
 }
 .gallery-item {
     transition: transform 350ms;
